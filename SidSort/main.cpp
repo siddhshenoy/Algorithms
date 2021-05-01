@@ -6,6 +6,7 @@ using namespace std;
 void print_list(int* arr, int size);
 int main()
 {
+	std::cout << "Intiailizing Sorting Algorithm" << std::endl;
 
 	int list[300] = {
 221,
